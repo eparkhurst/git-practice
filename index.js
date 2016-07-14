@@ -9,3 +9,7 @@ function firstBranch(){
   console.log('firstBranch is the best branch.');
   console.log("after baby branch");
 }
+
+function antotherThing(){
+  console.log("well actually");
+}
