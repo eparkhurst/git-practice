@@ -17,3 +17,7 @@ function anotherThing(){
 function()oneMoreThing(){
   console.log("Yo");
 }
+
+function sayJoe(){
+  console.log("I'm Joe");
+}
