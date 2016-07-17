@@ -10,6 +10,12 @@ function firstBranch(){
   console.log("after baby branch");
 }
 
-function antotherThing(){
+function anotherThing(){
   console.log("well actually");
+}
+
+function runAll(){
+  master()
+  firstBranch()
+  anotherThing()
 }
