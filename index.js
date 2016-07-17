@@ -28,3 +28,7 @@ function runAll(){
 function sayJohn(){
   console.log("hi I'm John");
 }
+
+function fuckOff(){
+  console.log('fuck off')
+}
