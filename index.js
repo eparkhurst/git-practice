@@ -24,3 +24,7 @@ function runAll(){
   firstBranch()
   anotherThing()
 }
+function sayName(){
+  console.log("Hello! My name is")
+}
+}
