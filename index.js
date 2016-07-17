@@ -14,6 +14,13 @@ function anotherThing(){
   console.log("well actually");
 }
 
+
 function()oneMoreThing(){
   console.log("Yo");
+}
+
+function runAll(){
+  master()
+  firstBranch()
+  anotherThing()
 }
