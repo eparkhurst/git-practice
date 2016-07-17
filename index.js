@@ -25,6 +25,6 @@ function runAll(){
   anotherThing()
 }
 
-function sayELi(){
-  console.log("Hello! My name is John")
+function sayJohn(){
+  console.log("hi I'm John");
 }
