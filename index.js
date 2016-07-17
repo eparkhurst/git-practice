@@ -26,6 +26,5 @@ function runAll(){
 }
 
 function sayName(){
-  console.log("Hello! My name is")
+  console.log("Hello! My name is Eli")
 }
-
