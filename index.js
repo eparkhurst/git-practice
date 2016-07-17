@@ -1,30 +1,9 @@
 //This is the begining
 //This the second thing that I did locally
 
-function master(){
-  console.log('I AM THE MASTER BRANCH!!!');
-}
-
-function firstBranch(){
-  console.log('firstBranch is the best branch.');
-  console.log("after baby branch");
-}
-
-function anotherThing(){
-  console.log("well actually");
-}
 
 
-function()oneMoreThing(){
-  console.log("Yo");
-}
-
-function runAll(){
-  master()
-  firstBranch()
-  anotherThing()
-}
-
-function fuckOff(){
-  console.log('fuck off')
+function fuckOff(x){
+  console.log('fuck off');
+  console.log("I don't want this to merge nicely "+x)
 }
